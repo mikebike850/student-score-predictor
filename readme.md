@@ -22,7 +22,7 @@ In basic terms, linear regression answers the question:
 
 It works by finding a **line of best fit** between the input (X) and output (Y), using the formula:
 
-```math
+
 Y = mX + b
 
 Where:
